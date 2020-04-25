@@ -5,8 +5,7 @@
   "license": "MIT",
   "private": null,
   "dependencies": {
-    "cypress": "^4.4.1",
-    "cypress-plugin-tab": "^1.0.5"
+    "cypress": "^4.4.1"
   },
   "scripts": {
     "start": "cypress run"
